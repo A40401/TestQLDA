@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/sv/TestQLDA",
-      "program": "c:/Users/sv/TestQLDA/build/Debug/outDebug",
+      "cwd": "c:/Users/A40842LƯUVĂNTÙNG/Desktop/QLDA/TestQLDA",
+      "program": "c:/Users/A40842LƯUVĂNTÙNG/Desktop/QLDA/TestQLDA/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
